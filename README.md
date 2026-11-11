@@ -193,4 +193,4 @@ This repository serves as the official landing page for Neighbors: Suburban Warf
 **Get the most recent version of Neighbors: Suburban Warfare today!**
 
 ---
-**Last updated:** 2026-11-11 15:41:06 UTC
+**Last updated:** 2026-11-11 22:21:58 UTC
